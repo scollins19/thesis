@@ -165,7 +165,7 @@ Back in the terminal, we want to add this repository and name it so we don't hav
 
 Now we can send our files from our local repository using the command:
 
-<code> git pull origin master </code> 
+<code> git push origin master </code> 
 
 This will send the files to our online github repository.
 
@@ -187,3 +187,9 @@ with the changes you made the previous evening using the command :
 <code> git pull origin master </code>
 
 This allows for a network to be created between your home computer, work computer and the online GitHub account so you can easily share code online and edit it with ease.
+
+
+
+<b> URL to GitHub account </b>
+
+https://github.com/scollins19
